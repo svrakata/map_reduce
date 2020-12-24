@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "csv-parse": "^4.8.8",
-    "date-and-time": "^0.13.1",
+    "date-and-time": "^0.14.2",
     "random": "^2.2.0",
     "unidecode": "^0.1.8"
   }
